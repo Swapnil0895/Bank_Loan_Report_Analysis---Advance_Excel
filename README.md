@@ -1,4 +1,3 @@
-# Bank_Loan_Report_Analysis---Advance_Excel
 
 # 🏦 Bank Loan Report Analysis (Excel Dashboard)
 
@@ -35,13 +34,6 @@ A financial analytics project developed in **Microsoft Excel** that explores tre
 - Average Loan Amount  
 - Loan by Purpose  
 - Credit Score vs Default Trend  
-
----
-
-## 📸 Dashboard Preview
-
-> *(Upload a screenshot on GitHub and paste the image link here)*
-
 ---
 
 ## 💡 Key Insights
@@ -49,6 +41,13 @@ A financial analytics project developed in **Microsoft Excel** that explores tre
 - Applicants with lower credit scores had significantly higher default rates.
 - Business-purpose loans had higher approval ratios.
 - Certain regions consistently underperformed on repayments.
+---
+
+## 📸 Dashboard Preview
+
+> *(Upload a screenshot on GitHub and paste the image link here)*
+
+
 
 ---
 
