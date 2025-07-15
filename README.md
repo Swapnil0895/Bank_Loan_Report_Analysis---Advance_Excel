@@ -46,7 +46,7 @@ A financial analytics project developed in **Microsoft Excel** that explores tre
 ## 📸 Dashboard Preview
 
 ![Dashboard Preview](https://github.com/Swapnil0895/Bank_Loan_Report_Analysis---Advance_Excel/blob/main/Bank%20loan%20Report%20Summary.png)
-![Dashboard Preview](https://github.com/Swapnil0895/Bank_Loan_Report_Analysis---Advance_Excel/blob/main/Bank%20loan%20Report%20Summary.png)
+![Dashboard Preview](https://github.com/Swapnil0895/Bank_Loan_Report_Analysis---Advance_Excel/blob/main/Bank%20Loan%20Report%20Overview.png)
 
 
 
