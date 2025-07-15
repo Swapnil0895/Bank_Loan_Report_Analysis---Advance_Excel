@@ -45,7 +45,9 @@ A financial analytics project developed in **Microsoft Excel** that explores tre
 
 ## 📸 Dashboard Preview
 
-> *(Upload a screenshot on GitHub and paste the image link here)*
+![Dashboard Preview](https://github.com/Swapnil0895/Bank_Loan_Report_Analysis---Advance_Excel/blob/main/Bank%20loan%20Report%20Summary.png)
+![Dashboard Preview](https://github.com/Swapnil0895/Bank_Loan_Report_Analysis---Advance_Excel/blob/main/Bank%20loan%20Report%20Summary.png)
+
 
 
 
@@ -59,5 +61,5 @@ Inspired by hands-on learning via YouTube and real-world finance datasets.
 
 ## 🔗 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/YOURUSERNAME)
-- [GitHub Portfolio](https://github.com/YOURUSERNAME)
+- [LinkedIn] - www.linkedin.com/in/swapnil-nalawade-156469230
+- [GitHub Portfolio](https://github.com/Swapnil0895)
